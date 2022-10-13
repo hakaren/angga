@@ -1,3 +1,5 @@
 [user]
 	email = hakaren64@gmail.com
 	name = hakaren
+[safe]
+	directory = /sdcard/emulated/0/KrisBotz-MDV1
